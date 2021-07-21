@@ -3,8 +3,8 @@
 -----------------
 
 Creators: 
-  Gilberto Medero
-  Zachary Anderson
+  GM
+  ZA
 
 Program Details:
   This program will run a virtual machine that compiles PL/0 code and prints information to the console.
